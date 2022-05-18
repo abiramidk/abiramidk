@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abiramidk
 - 👀 I’m interested in solving business problems with data
 - 🌱 I’m currently learning NLP and Deep Learning
-- 💞️ I’m looking to collaborate on any Data Science Projects in marketing and advertising
+-  I’m looking to collaborate on any Data Science Projects in marketing and advertising
 - 📫 How to reach me ...
 
 <!---
